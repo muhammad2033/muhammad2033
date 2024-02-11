@@ -11,42 +11,20 @@
       <img src="https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=medium" alt="Medium Profile">
     </a>
     <a href="https://www.facebook.com/mrmaazoo58/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=Facebook" alt="Facebook Profile">
+      <img src="https://img.shields.io/badge/Facebook-Profile-orange?style=for-the-badge&logo=Facebook" alt="Facebook Profile">
     </a>
     <a href="https://blogging-with-maaz.blogspot.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=Blogger" alt="Blogger Profile">
+      <img src="https://img.shields.io/badge/Blogger-Profile-orange?style=for-the-badge&logo=Blogger" alt="Blogger Profile">
     </a>
     <a href="https://twitter.com/Muhammad_Maaz33/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=Twitter" alt="Twitter Profile">
+      <img src="https://img.shields.io/badge/Twitter-Profile-orange?style=for-the-badge&logo=Twitter" alt="Twitter Profile">
     </a>
   </div>
 
- <h1 align="center">✋hey there</h1>
+ <h1 align="center">Assalam-O-Alaikom</h1>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coding Freak</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-        }
-        .container {
-            text-align: center;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coding Freak">
@@ -65,15 +43,15 @@ since 2021. I studied about C, C++
 and java too, but now I moved to AI. Right now, I'm working in
 AI using Python  and exploring the all terms of AI such as; Machine learning(data analysis , data visualization and Image classification using ML all algorithms), Deep learning(Image classification , Action recognition and explored all models of Keras) ,Object detection (yolo5 , yolo7 ,yolo8) , Generative AI(autoencoder etc) and so many. I also worked  in web scraping as well as automation. I have created lots of projects, intermediate as well as advance.
 Here are some projects that are done by me as a freelancer.
-1) is for UK , that is Google Map scraping , so the link is here -- https://github.com/muhammad2033/Google_Map_scraper 
+1) is for UK , that is Google Map scraping , so the link is here --> https://github.com/muhammad2033/Google_Map_scraper 
 
-2) is for USA (California) , that is Chess Club Application , so here is the link -- https://github.com/muhammad2033/Chess_Club_Application
+2) is for USA (California) , that is Chess Club Application , so here is the link --> https://github.com/muhammad2033/Chess_Club_Application
 
 
 My original github profile is here: Link--> https://github.com/muhammad2033
-  - 📫 How to reach me: Email----mrmaazoo09876@gmail.com --
-                                 mrmaazoo785@gmail.com
-                                 MuhammadMaaz17@outlook.com
+  - 📫 How to reach me: Email----mrmaazoo09876@gmail.com -->
+                                 --> mrmaazoo785@gmail.com
+                                 --> MuhammadMaaz17@outlook.com
 
   ---
 
