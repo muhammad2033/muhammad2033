@@ -1,22 +1,22 @@
 
   <div align="center">
     <a href="https://www.linkedin.com/in/muhammadmaazai/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-orange?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-Blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
     </a>
     <a href="https://www.kaggle.com/mrmaazoo" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle Profile">
     </a>
     <a href="https://medium.com/@Muhammad_Maaz" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-Profile-orange?style=for-the-badge&logo=medium" alt="Medium Profile">
+      <img src="https://img.shields.io/badge/Medium-Profile-Yellow?style=for-the-badge&logo=medium" alt="Medium Profile">
     </a>
     <a href="https://www.facebook.com/mrmaazoo58/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-Profile-orange?style=for-the-badge&logo=Facebook" alt="Facebook Profile">
+      <img src="https://img.shields.io/badge/Facebook-Profile-Green?style=for-the-badge&logo=Facebook" alt="Facebook Profile">
     </a>
     <a href="https://blogging-with-maaz.blogspot.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blogger-Profile-orange?style=for-the-badge&logo=Blogger" alt="Blogger Profile">
+      <img src="https://img.shields.io/badge/Blogger-Profile-Black?style=for-the-badge&logo=Blogger" alt="Blogger Profile">
     </a>
     <a href="https://twitter.com/Muhammad_Maaz33/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-Profile-orange?style=for-the-badge&logo=Twitter" alt="Twitter Profile">
+      <img src="https://img.shields.io/badge/Twitter-Profile-pink?style=for-the-badge&logo=Twitter" alt="Twitter Profile">
     </a>
   </div>
 
@@ -34,7 +34,7 @@
 
   ### &nbsp;About Me :
 
-My name is Muhammad Maaz. I am <img src="https://giphy.com/gifs dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" width="30"> from Peshawar,Pakistan. I'm a student of computer science  from superior science college Peshawar. I'm an
+My name is Muhammad Maaz. I am from Peshawar,Pakistan. I'm a student of computer science  from superior science college Peshawar. I'm an
 English teacher, I've been teaching English
 since 2020 and still teaching and I'm a
 python programmer as well, I've been working and learning in Python
