@@ -1,4 +1,3 @@
-  ![Github Banner](https://github.com/muhammad2033/muhammad2033/blob/main/AI%20.png)
 
   <div align="center">
     <a href="https://www.linkedin.com/in/muhammadmaazai/" target="_blank">
