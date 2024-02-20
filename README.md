@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working in **AI and Data science**
 
-- 👨‍💻 All of my projects are available at **(https://muhammad2033.github.io/Portfolio/)**
+- 👨‍💻 My Portfolio  **(https://muhammad2033.github.io/Portfolio/)**
 
 - 📫 How to reach me **mrmaazoo0987@gmail.com**
 - 📫 How to reach me **mrmaazoo785@gmail.com**
