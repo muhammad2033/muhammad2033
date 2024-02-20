@@ -14,21 +14,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad2033" alt="muhammad2033" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/@Muhammad_Maaz33" target="blank"><img src="https://img.shields.io/twitter/follow/@Muhammad_Maaz33?logo=twitter&style=for-the-badge" alt="@Muhammad_Maaz33" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/muhammadmaazai/" target="blank"><img src="https://img.shields.io/linkedin/follow/@muhammadmaazai?logo=LinkedIn&style=for-the-badge" alt="@muhammadmaazai" /></a> </p>
-
-<p align="right"> <a href="https://medium.com/@Muhammad_Maaz" target="blank"><img src="https://img.shields.io/medium/follow/@Muhammad_Maaz?logo=Medium&style=for-the-badge" alt="@Muhammad Maaz" /></a> </p>
-
-<p align="left"> <a href="https://blogging-with-maaz.blogspot.com/" target="blank"><img src="https://img.shields.io/blogger/follow/@BloggingWithMaaz?logo=Blogger&style=for-the-badge" alt="@BloggingWithMaaz" /></a> </p>
-
-<p align="right"> <a href="https://www.kaggle.com/mrmaazoo" target="blank"><img src="https://img.shields.io/kaggle/follow/@mrmaazoo?logo=Kaggle&style=for-the-badge" alt="@Muhammad Maaz" /></a> </p>
-
-<p align="left"> <a href="https://www.facebook.com/mrmaazoo58" target="blank"><img src="https://img.shields.io/facebook/follow/@mrmaazoo58?logo=Facebook&style=for-the-badge" alt="@Maaz Khan" /></a> </p>
-
-
-
-- 🔭 I’m currently working on **AI and Data science**
+- 🔭 I’m currently working in **AI and Data science**
 
 <!-- - 👨‍💻 All of my projects are available at (https://arzzahid66.github.io/portfolio/) -->
 
@@ -72,6 +59,17 @@ Here are some projects that are done by me as a freelancer.
 
 2) is for USA (California),that is Chess Club Application ,so here is the link **https://github.com/muhammad2033/Chess_Club_Application**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@Muhammad_Maaz33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Muhammad_Maaz33" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadmaazai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmaazai" height="30" width="40" /></a>
+<a href="https://kaggle.com/Muhammad_Maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Muhammad_Maaz" height="30" width="40" /></a>
+<a href="https://fb.com/mrmaazoo58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrmaazoo58" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad_maaz33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_maaz33" height="30" width="40" /></a>
+<a href="https://medium.com/@Muhammad_Maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Muhammad_Maaz" height="30" width="40" /></a>
+<a href="https://blogging-with-maaz.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Knowledge Blog" height="30" width="40" /></a>
+</p>  
 
   ---
 <h3 align="left">Languages and Tools:</h3>
