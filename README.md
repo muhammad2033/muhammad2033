@@ -16,15 +16,15 @@
 
 <p align="left"> <a href="https://twitter.com/@Muhammad_Maaz33" target="blank"><img src="https://img.shields.io/twitter/follow/@Muhammad_Maaz33?logo=twitter&style=for-the-badge" alt="@Muhammad_Maaz33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/muhammadmaazai/" target="blank"><img src="https://img.shields.io/linedin/follow/@muhammadmaazai?logo=LinkedIn&style=for-the-badge" alt="@muhammadmaazai " /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+<p align="left"> <a href="https://medium.com/@Muhammad_Maaz target="blank"><img src="https://img.shields.io/medium/follow/@Muhammad_Maaz?logo=medium&style=for-the-badge" alt="@Muhammad_Maaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+<p align="left"> <a href="https://blogging-with-maaz.blogspot.com/ target="blank"><img src="https://img.shields.io/blogging/follow/@BloggingWithMaaz?logo=Blogger&style=for-the-badge" alt="@BloggingWithMaaz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+<p align="left"> <a href="https://www.kaggle.com/mrmaazoo target="blank"><img src="https://img.shields.io/kaggle/follow/@mrmaazoo?logo=kaggle&style=for-the-badge" alt="@mrmaazoo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/mrmaazoo58" target="blank"><img src="https://img.shields.io/facebook/follow/@mrmaazoo58?logo=facebook&style=for-the-badge" alt="@mrmaazoo58" /></a> </p>
 
 
 - 🔭 I’m currently working on **AI and Data science**
