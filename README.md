@@ -14,9 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad2033" alt="muhammad2033" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Muhammad_Maaz33" target="blank"><img src="https://img.shields.io/twitter.com/Muhammad_Maaz33?logo=twitter&style=for-the-badge" alt="@Muhammad_Maaz33" /></a> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/muhammadmaazai/" target="blank"><img src="https://img.shields.io/linkedin.com/in/muhammadmaazai?logo=twitter&style=for-the-badge" alt="@muhammadmaazai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Muhammad_Maaz33" target="blank"><img src="https://img.shields.io/twitter/follow/@Muhammad_Maaz33?logo=twitter&style=for-the-badge" alt="@Muhammad_Maaz33" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
 
@@ -27,6 +25,8 @@
 <p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+
+
 - 🔭 I’m currently working on **AI and Data science**
 
 <!-- - 👨‍💻 All of my projects are available at (https://arzzahid66.github.io/portfolio/) -->
