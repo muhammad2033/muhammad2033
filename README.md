@@ -10,7 +10,8 @@
 </html>
  <h1 align="center">Assalam-O-Alaikom ❤.It's me, Muhammad Maaz </h1>
  <h3 align="center">Python Developer🐍 || Data Science Enthusiast 📊📈 || Prompt Engineer at ChatGPT || AI explorer || A Researcher at Google scholar ||</h3>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad2033&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad2033" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad2033&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad2033" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad2033" alt="muhammad2033" /></a> </p>
 
