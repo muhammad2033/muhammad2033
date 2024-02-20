@@ -8,10 +8,36 @@
     </div>
 </body>
 </html>
- <h1 align="center">Assalam-O-Alaikom.It's me, Muhammad Maaz</h1>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzzahid66&label=Profile%20views&color=0e75b6&style=flat" alt="arzzahid66" /> </p>
+ <h1 align="center">Assalam-O-Alaikom ❤.It's me, Muhammad Maaz </h1>
+ <h3 align="center">Python Developer🐍 || Data Science Enthusiast 📊📈 || Prompt Engineer at ChatGPT || AI explorer || A Researcher at Google scholar ||</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad2033&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad2033" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzzahid66" alt="arzzahid66" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad2033" alt="muhammad2033" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/Muhammad_Maaz33" target="blank"><img src="https://img.shields.io/twitter.com/Muhammad_Maaz33?logo=twitter&style=for-the-badge" alt="@Muhammad_Maaz33" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/muhammadmaazai/" target="blank"><img src="https://img.shields.io/linkedin.com/in/muhammadmaazai?logo=twitter&style=for-the-badge" alt="@muhammadmaazai" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abdul_rehman_66" target="blank"><img src="https://img.shields.io/twitter/follow/@abdul_rehman_66?logo=twitter&style=for-the-badge" alt="@abdul_rehman_66" /></a> </p>
+- 🔭 I’m currently working on **AI and Data science**
+
+<!-- - 👨‍💻 All of my projects are available at (https://arzzahid66.github.io/portfolio/) -->
+
+- 📫 How to reach me **mrmaazoo0987@gmail.com**
+- 📫 How to reach me **mrmaazoo785@gmail.com**
+
+- My original github profile is here **https://github.com/muhammad2033**
+
+
+
 
 
   <div align="center">
@@ -41,15 +67,10 @@
 
 My name is Muhammad Maaz. I am from Peshawar,Pakistan. I'm a student of computer science from superior science college Peshawar. I'm an English teacher, I've been teaching English since 2020 and still teaching and I'm a prompt engineer as well. Anything can be extracted from chatGPT or other generative AI tools. I'm also a python programmer, I've been working and learning in Python since 2021. I studied about C, C++ and java too, but now I moved to AI. Right now, I'm working in AI using Python and exploring the all terms of AI such as; Machine learning(data analysis , data visualization and Image classification using ML all algorithms), Deep learning(Image classification , Action recognition and explored all models of Keras), Object detection (yolo5 , yolo7 ,yolo8) , Generative AI(autoencoder etc), NLP and created so many chatbot applications using streamlit, you could see my GitHub link's for that. I also worked in web scraping as well as automation. I have created lots of projects, intermediate as well as advance as a freelancing.
 Here are some projects that are done by me as a freelancer.
-1) is for UK , that is Google Map scraping , so the link is here -->https://github.com/muhammad2033/Google_Map_scraper 
+1) is for UK , that is Google Map scraping , so the link is here **https://github.com/muhammad2033/Google_Map_scraper** 
 
-2) is for USA (California),that is Chess Club Application ,so here is the link -->https://github.com/muhammad2033/Chess_Club_Application
+2) is for USA (California),that is Chess Club Application ,so here is the link **https://github.com/muhammad2033/Chess_Club_Application**
 
-
-My original github profile is here: Link--> https://github.com/muhammad2033
-  - 📫 How to reach me: Email---> mrmaazoo09876@gmail.com 
-                             ---> mrmaazoo785@gmail.com
-                                 
 
   ---
 <h3 align="left">Languages and Tools:</h3>
