@@ -68,7 +68,7 @@ Here are some projects that are done by me as a freelancer.
 <a href="https://fb.com/mrmaazoo58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrmaazoo58" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_maaz33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_maaz33" height="30" width="40" /></a>
 <a href="https://medium.com/@Muhammad_Maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Muhammad_Maaz" height="30" width="40" /></a>
-<a href="https://blogging-with-maaz.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogging.svg" alt="@Knowledge Blog" height="30" width="40" /></a>
+<a href="https://blogging-with-maaz.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="@Knowledge Blog" height="30" width="40" /></a>
 </p>  
 
   ---
