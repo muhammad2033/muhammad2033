@@ -52,7 +52,7 @@
 
 
 
-  ### &nbsp;About Me :
+
 
 I'm a Computer Science graduate (CGPA 3.52) from the University of Peshawar, with 3+ years of experience in Python development 
 and 2+ years in ML, DL, and AI. I’ve delivered real-world projects in medical image classification, AI image authentication, and real-time monitoring (e.g., breath rate, fever detection). I’m certified in AI by KPITB and skilled in Flask, TensorFlow, PyTorch, Scikit-learn, 
