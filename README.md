@@ -9,7 +9,7 @@
 </body>
 </html>
  <h1 align="center">Assalam-O-Alaikom ❤.It's me, Muhammad Maaz </h1>
- <h3 align="center">Python Developer🐍 || Data Science Enthusiast 📊📈 || Prompt Engineer at ChatGPT || AI explorer || A Researcher at Google scholar ||</h3>
+ <h3 align="center">AI Developer || AI Agents || AI Automation Enthusiast (n8n, APIs, Zapier) || Bolt Enthusiast||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad2033&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad2033" /> </p>
 
