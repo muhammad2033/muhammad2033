@@ -54,11 +54,80 @@
 
   ### &nbsp;About Me :
 
-My name is Muhammad Maaz. I am from Peshawar,Pakistan. I'm a student of computer science from superior science college Peshawar. I'm an English teacher, I've been teaching English since 2020 and still teaching and I'm a prompt engineer as well. Anything can be extracted from chatGPT or other generative AI tools. I'm also a python programmer, I've been working and learning in Python since 2021. I studied about C, C++ and java too, but now I moved to AI. Right now, I'm working in AI using Python and exploring the all terms of AI such as; Machine learning(data analysis , data visualization and Image classification using ML all algorithms), Deep learning(Image classification , Action recognition and explored all models of Keras), Object detection (yolo5 , yolo7 ,yolo8) , Generative AI(autoencoder etc), NLP and created so many chatbot applications using streamlit, you could see my GitHub link's for that. I also worked in web scraping as well as automation. I have created lots of projects, intermediate as well as advance as a freelancing.
-Here are some projects that are done by me as a freelancer.
-1) is for UK , that is Google Map scraping , so the link is here **https://github.com/muhammad2033/Google_Map_scraper** 
+I'm a Computer Science graduate (CGPA 3.52) from the University of Peshawar, with 3+ years of experience in Python development 
+and 2+ years in ML, DL, and AI. I’ve delivered real-world projects in medical image classification, AI image authentication, and real-time monitoring (e.g., breath rate, fever detection). I’m certified in AI by KPITB and skilled in Flask, TensorFlow, PyTorch, Scikit-learn, 
+OpenCV, and more. I also build intelligent chatbots using Langchain and Qdrant, and automate workflows as an n8n developer. With 
+strong frontend and research skills, I’m currently pursuing a Master’s in AI to further advance my expertise. 
+<h2 Technical Skills h2> 
+●      Programming Skills: Python, Javascript, Java, Html, CSS, flake8-html. 
+●      AI Expertise: Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language   
+       Processing, and Generative AI, n8n, Bolt, VEO3. 
+●      Framework & Libraries: Numpy, Pandas, Matplotlib, Scipy, MLFlow, Tensorflow, PyTorch, Scikit-Learn, OpenCV, 
+       Ultralytics YOLO, Roboflow, CVAT, LabelImg, Label Studio,  Supervision, spaCy, ,Langchain,  Hugging Face, 
+       OpenAI,Langchain, langgraph , Qdrant, Streamlit, FastAPI,Flask, Tkinter,Beautiful Soup, Selenium, Gradio, Sqlite3, 
+       Norfair and Retinaface, Torch , Keras, Torchvision, flake8, llama-index ,NLTK, imageio, moviepy, pytube, pafy. 
+●      Deployment & Development: Flask,  Streamlit, Netlify.
+●      Version Control & Tools: VS Code, Visual Studio, Jupyter Notebook, Google Colab, Kaggle, PyCharm, Git, and,Github. 
 
-2) is for USA (California),that is Chess Club Application ,so here is the link **https://github.com/muhammad2033/Chess_Club_Application**
+WORK EXPERIENCE
+Beta Byte Technology Pvt. Ltd.                                                                                                                          		          July2023- June2024
+ML Engineer Intern (On-site)
+
+        ●      Involved developing, training, and deploying machine learning models to solve real-world problems. 
+        ●      Trained so many models along with their websites using HTML, CSS and JAVASCRIPT. 
+        ●      Integrated Back-end side with Front-end side
+
+BETA BYTE TECHNOLOGY  PVT. LTD  PROJECTS
+
+Lung Cancer Classification Using Machine Learning Models 
+Comparative Analysis of Breast Ultrasound Classification Using Convolutional Neural Networks (VGG16, VGG19) 
+Chicken Pox Classification Using Deep Learning Models 
+Heart Attack Rate Classification Using Machine Learning Models 
+Indoor Detection Using YOLOV8 
+Vegetables Detection Using YOLOV5, YOLOV6, YOLOV8
+
+
+ITSOLERA PVT LTD                                                                                                                                                                       June2025-Present
+
+AI Developer(Internship):
+
+AI-Powered Content Moderation System
+Technologies: Python, AI, NLP, CNN, Hugging Face, HTML, CSS, Javascript, Flask, torch, torchvision, transformers, transformers
+
+AI for Mental Health Coaches
+Technologies:  React 18, TypeScript, Tailwind CSS, Flask (API), Python, Vite, Lucide Icons
+
+A Client from South Africa at Upwork:                                                                                                                                 July2024 - Aug2024                                      
+
+Machine Learning Engineer (Upwork)
+Breath Rate Monitoring System Using Computer Vision
+Upwork | Jul 2024
+Tech: Python, VS Code, Jupyter, Google Colab, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Streamlit, Retinaface, Norfair
+IR Fever Detection Using Computer Vision
+Upwork | Aug 2024
+Tech: Python, VS Code, Jupyter, Google Colab, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, gradio
+
+Google Map Scraping for UniPuller in UK:                                                                                                                              June 2022 -Present  
+Python Developer (Project-Base Job)
+Since June 2022, I’ve been working with UniPuller, a UK-based company focused on big data solutions. My role involves extracting targeted business data from Google Maps for specific UK locations. The extracted data includes emails, phone numbers, categories, addresses, websites, company names, social media links (Facebook, Instagram, Twitter, YouTube, LinkedIn), service descriptions, and company background details. 
+Technologies: Python, Selenium, Beautiful Soup.
+
+Chess_Club_Application for an American Client:                                                                                                                          Jan2024-Feb2024        
+Python Developer (Freelancing):
+
+Chess_Club_Application using Python Developer with UI:
+Libraries: Python,  flake8, flake8-html.
+
+CERTIFICATION
+●    AI with Irfan Malik (Batch1)
+●    AI at Corvit Peshawar
+●	   Beta Byte Technology Pvt. Ltd.                                                                                                          
+●    While I don't have many official certificates in Python, I have completed numerous Python courses and have gained strong practical experience through hands-on projects and        consistent learning.
+
+ADDITIONAL INFORMATIONS
+English instructor, Reading books, Exploring the palaces, helping people through knowledge
+
+
 
 
 <h3 align="left">Connect with me:</h3>
