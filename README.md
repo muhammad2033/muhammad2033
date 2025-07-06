@@ -16,14 +16,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad2033" alt="muhammad2033" /></a> </p>
 
 
-- 🔭 I’m currently working in **AI and Data science**
+- 🔭 I’m currently Exploring **AI || AI agents || AI tools || AI workflows **
 
 - 👨‍💻 My Portfolio  **(https://muhammad2033.github.io/Portfolio/)**
 
 - 📫 How to reach me **mrmaazoo0987@gmail.com**
 - 📫 How to reach me **mrmaazoo785@gmail.com**
 
-- My original github profile is here **https://github.com/muhammad2033**
+- My original Github profile is here **https://github.com/muhammad2033**
 
 
 
