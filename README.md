@@ -58,7 +58,8 @@ I'm a Computer Science graduate (CGPA 3.52) from the University of Peshawar, wit
 and 2+ years in ML, DL, and AI. I’ve delivered real-world projects in medical image classification, AI image authentication, and real-time monitoring (e.g., breath rate, fever detection). I’m certified in AI by KPITB and skilled in Flask, TensorFlow, PyTorch, Scikit-learn, 
 OpenCV, and more. I also build intelligent chatbots using Langchain and Qdrant, and automate workflows as an n8n developer. With 
 strong frontend and research skills, I’m currently pursuing a Master’s in AI to further advance my expertise. 
-<h2 Technical Skills h2> 
+<h2 Technical Skills /h2> 
+  
 ●      Programming Skills: Python, Javascript, Java, Html, CSS, flake8-html. 
 ●      AI Expertise: Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language   
        Processing, and Generative AI, n8n, Bolt, VEO3. 
